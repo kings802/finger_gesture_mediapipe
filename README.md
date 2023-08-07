@@ -1,7 +1,7 @@
 # finger_gesture_mediapipe
 基于CV2、mediapipe、joblib的手势（剪刀石头布）识别方案
 
-方案实现结果演示：
+方案实现结果演示：<br>
 https://github.com/kings802/finger_gesture_mediapipe/assets/19601216/30145805-80cd-43fb-ae8e-98a2a4c25753
 
 代码执行顺序：<br>
